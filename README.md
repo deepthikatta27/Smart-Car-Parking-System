@@ -2,7 +2,7 @@
 The proposed smart parking lot system consists of ultrasonic sensors, IR sensors, servo motors and
 Arduino Uno and esp8266 Wi-Fi module using which the data will be sent to the blynk IoT Platform so
 that any car owner can check if there is an empty slot in a parking lot using their phone or on computer.
-# System Working:
+## System Working:
 The IR sensor at the entrance will detect incoming car and triggers the servo motor to the gate if there is
 any empty slot in the parking lot. If there are no empty slots, then the gate will not open.
 The parking lot is equipped with ultrasonic sensors for each slot for detecting the presence of any vehicle
