@@ -60,10 +60,7 @@ Follow these steps to set up and execute the Smart Car Parking System:
    - If you encounter any issues, double-check the hardware connections and code for errors.
    - Ensure the Wi-Fi connection is stable and the ESP8266 is properly configured.
 
-9. **Documentation**
-   - Create detailed documentation for the entire project, including circuit diagrams, code explanations, and any modifications made.
-
-10. **Deployment**
+9. **Deployment**
     - Once you are satisfied with the system's performance and stability, deploy it in the actual parking lot.
 
 ## Safety Precautions
