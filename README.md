@@ -1,4 +1,4 @@
-# 🚗🅿️ Smart Car Parking System 🚗🅿️
+# 🅿️🚗 Smart Car Parking System 🚗🅿️
 
 ## 📝 Description
 The Smart Car Parking System is a project that aims to provide a convenient and efficient parking solution by using various sensors, Arduino Uno, and an ESP8266 Wi-Fi module to connect to the Blynk IoT Platform. This system allows car owners to check the availability of parking slots in real time through their mobile phones or computers.
